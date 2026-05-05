@@ -1,0 +1,11 @@
+raw_line
+Date and time: 2026-02-26 13:02:32
+File name: 6G5H.cif
+"    no. of peptide chains: 34 [A=206,B=213,C=218,D=225,E=262,F=189,G=230,H=186,I=205,J=180,K=95,L=151,M=123,N=149,O=135,P=120,Q=139,R=132,S=143,T=144,U=101,V=82,W=129,X=141,Y=124,Z=72,a=101,b=82,c=61,d=54,e=56,f=72,g=314,h=24]"
+    no. of DNA/RNA chains: 1 [2=1665]
+    no. of amino acids:    4858
+    no. of nucleotides:    1665
+    no. of atoms:          74342
+    no. of waters:         0
+    no. of metals:         3 [Zn=3]
+  Note: an interface stack is an ordered list of three and more nucleobases

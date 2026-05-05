@@ -1,0 +1,26 @@
+raw_line
+"        type and backbone connectivity, and may contain more than one stem."
+      helix#number[stems-contained] bps=number-of-base-pairs in the helix
+"      bp-type: '|' for a canonical WC/wobble pair, '.' otherwise"
+      helix-form: classification of a dinucleotide step comprising the bp
+        above the given designation and the bp that follows it. Types
+"        include 'A', 'B' or 'Z' for the common A-, B- and Z-form helices,"
+"        '.' for an unclassified step, and 'x' for a step without a"
+        continuous backbone.
+        interactions (nucleobases within to a stem are excluded by default).
+"   1 size=3 CCR 2.C382,2.C381,I.ARG49"
+"   2 size=3 AAF 2.A605,2.A604,J.PHE20"
+"   3 size=3 ACY 2.A1293,2.C1292,f.TYR140"
+"   4 size=3 FGR J.PHE147,2.G821,J.ARG150"
+"   5 size=4 GGGR 2.G80,2.G70,2.G71,G.ARG170"
+"   6 size=4 GAUR 2.G177,2.A313,2.U144,G.ARG178"
+"   7 size=4 AAAF 2.A998,2.A997,2.A996,N.PHE113"
+"   8 size=4 UCUQ 2.U1444,2.C1443,2.U1442,Q.GLN11"
+"   9 size=4 ACGW 2.A1569,2.C1568,2.G1567,S.TRP82"
+"  10 size=5 AAAUR 2.A1284,2.A1313,2.A1287,2.U1288,f.ARG95"
+"  11 size=5 UAUGQ 2.U1499,2.A1498,2.U1496,2.G1495,d.GLN41"
+"  12 size=7 UGGGAAY 2.U422,2.G421,2.G420,2.G419,2.A418,2.A2,C.TYR223"
+"  13 size=7 CRUUAAC 2.C687,H.ARG118,2.U917,2.U918,2.A919,2.A1020,2.C1019"
+"  14 size=7 CAAAUAF 2.C1666,2.A1664,2.A1258,2.A1663,2.U1662,2.A1661,d.PHE14"
+"  15 size=8 GGAAURGC 2.G558,2.G559,2.A560,2.A561,2.U562,J.ARG172,2.G586,2.C585"
+"  16 size=8 CAGAGAAR 2.C876,2.A875,2.G874,2.A872,2.G915,2.A870,2.A916,N.ARG73"
