@@ -1,0 +1,11 @@
+raw_line
+Date and time: 2026-02-26 13:01:58
+File name: 1HNW.cif
+"    no. of peptide chains: 20 [B=234,C=206,D=208,E=150,F=101,G=155,H=138,I=127,J=98,K=119,L=124,M=125,N=60,O=88,P=88,Q=104,R=73,S=80,T=99,V=24]"
+"    no. of DNA/RNA chains: 2 [A=1507,X=6]"
+    no. of amino acids:    2401
+    no. of nucleotides:    1513
+    no. of atoms:          51934
+    no. of waters:         0
+"    no. of metals:         98 [Mg=96,Zn=2]"
+  Note: an interface stack is an ordered list of three and more nucleobases

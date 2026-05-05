@@ -1,0 +1,18 @@
+raw_line
+"        type and backbone connectivity, and may contain more than one stem."
+      helix#number[stems-contained] bps=number-of-base-pairs in the helix
+"      bp-type: '|' for a canonical WC/wobble pair, '.' otherwise"
+      helix-form: classification of a dinucleotide step comprising the bp
+        above the given designation and the bp that follows it. Types
+"        include 'A', 'B' or 'Z' for the common A-, B- and Z-form helices,"
+"        '.' for an unclassified step, and 'x' for a step without a"
+        continuous backbone.
+        interactions (nucleobases within to a stem are excluded by default).
+"   1 size=3 GAR A.G973,A.A974,N.ARG31"
+"   2 size=3 UAR A.U1348,A.A1346,G.ARG10"
+"   3 size=4 GAAR A.G730,A.A729,A.A728,O.ARG54"
+"   4 size=4 UGGR A.U1372,A.G1373,A.G1347,I.ARG107"
+"   5 size=5 GAAAW A.G1017,A.A1016,A.A1015,A.A1014,S.TRP34"
+"   6 size=6 GAAACF A.G1323,A.A1319,A.A978,A.A1318,A.C1317,N.PHE16"
+"   7 size=8 GGAGCCGH A.G725,A.G724,A.A722,A.G721,A.C720,A.C719,A.G718,K.HIS116"
+"   8 size=9 CGGAAAUUR A.C1335,A.G1300,A.G1334,A.A1333,A.A1332,A.A1306,A.U1307,A.U1308,M.ARG99"
